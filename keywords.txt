@@ -1,0 +1,28 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Totobot KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init KEYWORD2
+setCorrection KEYWORD2
+moveForward KEYWORD2
+moveBackward KEYWORD2
+turnLeft KEYWORD2
+turnRight KEYWORD2
+runMotor KEYWORD2
+setEyeEffect KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+totobot KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
